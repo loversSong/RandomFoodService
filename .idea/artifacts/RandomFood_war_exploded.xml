@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RandomFood:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/RandomFood_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="RandomFood/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RandomFood" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

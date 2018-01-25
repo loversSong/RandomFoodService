@@ -1,0 +1,7 @@
+com\service\MealPackageService.class
+com\mapper\FoodMapper.class
+com\pojo\MealPackage.class
+com\service\MealCombinerService.class
+com\pojo\MealCombiner.class
+com\service\FoodService.class
+com\pojo\Food.class
